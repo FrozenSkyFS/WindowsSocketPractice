@@ -8,3 +8,8 @@
 *.idb
 *.vcxproj
 *.filters
+*.sln
+*.db-wal
+*.db-shm
+*.db
+.vs/WindowsSocketPractice/v15/.suo
